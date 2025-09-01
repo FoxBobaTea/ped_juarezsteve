@@ -7,6 +7,10 @@ Su propósito es únicamente académico.
 ---
 
 ## 📂 Contenido
+Unidad 1: Recoleccion de datos
+Unidad 2: Transformacion
+Unidad 3: Procesamiento y manipulacion
+Unidad 4: Visualizacion
 
 
 ---
