@@ -29,3 +29,33 @@ Archivos JSON, formato estandar para pasar informacion
 Las APIS se pueden construir en cualquier lenguaje de programacion
 
 
+=========== Endpoints =======
+Placeholder API
+
+GET	/posts
+GET	/posts/1
+GET	/posts/1/comments
+GET	/comments?postId=1
+
+Si hacemos click en los enlaces, veremos una lista de diccionarios
+
+>Weather API
+
+==== Proyecto Final ====
+Web Scraper y APIS o solo una
+
+Si no conocemos el tema, entonces el procesamiento de datos se convierte en algo muy dificil
+
+
+
+
+
+
+
+
+
+
+
+
+
+
