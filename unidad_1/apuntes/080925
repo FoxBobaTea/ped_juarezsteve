@@ -1,0 +1,31 @@
+*APIS
+(Application Programming Interface)
+
+Rest API { GET, POST, PUT, DELETE
+(HTTP)
+
+Seremos consumidores de APIS en este semestre
+
+Ser usuario significa programar, no todo es con GUI
+
+Nos permiten utilizar funciones de alguien mas, desde una app que estemos desarrollando
+
+Paga total (X)
+Gratuitas 
+Freemium
+
+--- REST API
+Protocolos HTTP
+Se utilizan mas para desarrollo web
+
+Get <- Obtener informacion
+Post <- Agregar informacion
+Put <- Hace actualizaciones
+Delete <- Eliminar
+
+Se utilizara Get principalmente
+Archivos JSON, formato estandar para pasar informacion
+
+Las APIS se pueden construir en cualquier lenguaje de programacion
+
+
